@@ -15,7 +15,7 @@
         <assertj-core.version>3.27.4</assertj-core.version>
         <junit-jupiter.version>5.11.1</junit-jupiter.version>
         <httpclient.version>4.5.14</httpclient.version>
-        <log4j-core.version>2.25.1</log4j-core.version>
+        <log4j-core.version>2.25.4</log4j-core.version>
         <awaitility.version>4.3.0</awaitility.version>
         <jodd-util.version>6.3.0</jodd-util.version>
         <jackson.version>2.20.0</jackson.version>
